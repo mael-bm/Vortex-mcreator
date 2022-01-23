@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vortex_inc:block/test_block"
+    }
+  }
+}
