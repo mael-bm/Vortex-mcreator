@@ -1,20 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "TestBlock",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "test_block"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.vortex_inc.test_block": "Test Block"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
